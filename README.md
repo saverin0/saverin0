@@ -13,7 +13,7 @@
 
 Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Stack Developer** with a strong focus on solving real-world problems through data-driven insights and innovative solutions. I enjoy working on projects that combine **data analysis**, **machine learning**, and **web development** to create meaningful impact.
 
-- 🔭 **Current Project**: [US-Health-Insurance-ANOVA-Analysis](https://github.com/saverin0/US-Health-Insurance-ANOVA-Analysis)
+- 🔭 **Current Project**: [Machine Learning Projects](https://github.com/saverin0/datascience/tree/main/Machine%20Learning)
 - 🌱 **Learning**: Advanced Statistical Methods, Machine Learning, and Data Visualization
 - 👯 **Looking to Collaborate**: Open-source projects in **Data Science** and **Web Development**
 - 💬 **Ask me about**: Python, Data Analysis, ANOVA, and Full-Stack Development
@@ -45,7 +45,7 @@ Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Sta
 
 ## 📊 Featured Projects
 
-Here are some of the projects I’ve worked on:
+Here are some of the projects I've worked on:
 
 - **[US-Health-Insurance-ANOVA-Analysis](https://github.com/saverin0/US-Health-Insurance-ANOVA-Analysis)**  
   A statistical analysis project using Two-Way ANOVA to study variations in U.S. health insurance coinsurance rates across age groups and plan types.
