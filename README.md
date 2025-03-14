@@ -3,8 +3,16 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saverin0&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saverin0&theme=tokyonight&hide_border=true" width="49%" />
+  <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none; padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=saverin0&show_icons=true&theme=tokyonight&hide_border=true" />
+      </td>
+      <td style="border: none; padding: 0;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saverin0&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
