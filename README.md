@@ -53,7 +53,7 @@ Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Sta
 
 ## 📊 Featured Projects
 
-Here are some of the projects I’ve worked on:
+Here are some of the projects I've worked on:
 
 - **[US-Health-Insurance-ANOVA-Analysis](https://github.com/saverin0/US-Health-Insurance-ANOVA-Analysis)**  
   A statistical analysis project using Two-Way ANOVA to study variations in U.S. health insurance coinsurance rates across age groups and plan types, including binning, feature engineering, and statistical analysis.
@@ -107,7 +107,11 @@ Check out more of my work on [my GitHub profile](https://github.com/saverin0)!
   
 </div>
 
-<!-- GitHub Snake animation -->
+<!-- GitHub Contribution Animation -->
 <div align="center">
-  <img src="https://github.com/saverin0/saverin0/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/saverin0/saverin0/blob/output/github-contribution-tetris.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/saverin0/saverin0/blob/output/github-contribution-tetris.svg">
+    <img alt="GitHub Contribution Tetris Animation" src="https://github.com/saverin0/saverin0/blob/output/github-contribution-tetris.svg">
+  </picture>
 </div>
