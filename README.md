@@ -48,16 +48,13 @@ Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Sta
 Here are some of the projects I’ve worked on:
 
 - **[US-Health-Insurance-ANOVA-Analysis](https://github.com/saverin0/US-Health-Insurance-ANOVA-Analysis)**  
-  A statistical analysis project using Two-Way ANOVA to study variations in U.S. health insurance coinsurance rates across age groups and plan types.
+  A statistical analysis project using Two-Way ANOVA to study variations in U.S. health insurance coinsurance rates across age groups and plan types, including binning, feature engineering, and statistical analysis.
 
 - **[Spotify-Genre-Trends-Pipeline](https://github.com/saverin0/Spotify-pipeline)**  
   An automated data pipeline for analyzing Spotify music data using Apache Airflow, PostgreSQL, and Python. The project provides insights into genre trends, artist popularity, and personalized music recommendations.
 
 - **[Data Science Course Repository](https://github.com/saverin0/datascience)**  
   A comprehensive repository containing projects, assignments, and notes from a data science course, including topics like exploratory data analysis, feature engineering, and machine learning.
-
-- **[US-Healthcare-System-Data-Analysis](https://github.com/saverin0/US-Healthcare-System-Data-Analysis)**  
-  A project focused on analyzing U.S. healthcare system data, including binning, feature engineering, and statistical analysis.
 
 - **[iNeuron Data Science Assignments](https://github.com/saverin0/ineuron_datascience)**  
   A repository containing assignments and projects completed as part of the iNeuron Data Science course, covering topics like Python, statistics, and machine learning.
