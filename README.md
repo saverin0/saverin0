@@ -3,8 +3,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saverin0&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saverin0&theme=tokyonight&hide_border=true" width="49%" />
+  <a href="https://github.com/saverin0">
+    <img src="https://github-readme-stats.vercel.app/api?username=saverin0&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
+  <a href="https://github.com/saverin0">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=saverin0&theme=tokyonight&hide_border=true" width="49%" />
+  </a>
 </div>
 
 ---
