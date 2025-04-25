@@ -34,6 +34,10 @@ Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Sta
 
 ---
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
 ## 📊 Featured Projects
 
 Explore my comprehensive collection of data science projects:
@@ -46,7 +50,8 @@ Explore my comprehensive collection of data science projects:
 
 Each project is documented with detailed Jupyter Notebooks and explanations.
 
----
+    </td>
+    <td width="50%" valign="top">
 
 ## 🔄 Recent Activity
 
@@ -61,6 +66,10 @@ Stay updated with my latest contributions:
 <!--END_SECTION:activity-->
 
 *(Consider integrating [GitHub Readme Activity](https://github.com/Readme-Workflows/Readme-Activity) to automatically track this.)*
+
+    </td>
+  </tr>
+</table>
 
 ---
 
