@@ -54,11 +54,6 @@ Each project is documented with detailed Jupyter Notebooks and explanations.
 ### 🔄 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed updates to [Data-Science-Projects](https://github.com/saverin0/Data-Science-Projects)  
-- 📝 Improved project documentation and README files  
-- 🔧 Optimized and refactored code for better efficiency  
-- 📄 Added new insights and visualizations to recent projects  
-- ✅ Merged pull requests and closed issues  
 <!--END_SECTION:activity-->
 
 *Want real-time updates? Check out [GitHub Readme Activity](https://github.com/Readme-Workflows/Readme-Activity).*
