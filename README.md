@@ -6,7 +6,7 @@
   <table border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td style="border: none; padding: 0;">
-        <img src="https://github-readme-stats.vercel.app/api?username=saverin0&show_icons=true&theme=tokyonight&hide_border=true" />
+        <img src="https://github-readme-stats-saverin0.vercel.app/api?username=saverin0&show_icons=true&theme=tokyonight&hide_border=true" />
             </tr>
 </table>
 </div>
@@ -46,7 +46,7 @@ Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Sta
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saverin0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&" />
+  <img src="https://github-readme-stats-saverin0.vercel.app/api/top-langs/?username=saverin0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </div>
 
 ---
