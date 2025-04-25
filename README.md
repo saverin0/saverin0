@@ -44,7 +44,7 @@ Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Sta
     <td width="50%" valign="top" align="center">
 
 <!-- GitHub Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saverin0&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saverin0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook" />
 
     </td>
   </tr>
