@@ -49,14 +49,7 @@ Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Sta
 Each project is documented with detailed Jupyter Notebooks and explanations.
 
 </td>
-<td width="50%" valign="top">
 
-### 🔄 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</td>
 </tr>
 </table>
 
