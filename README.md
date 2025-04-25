@@ -7,11 +7,8 @@
     <tr>
       <td style="border: none; padding: 0;">
         <img src="https://github-readme-stats.vercel.app/api?username=saverin0&show_icons=true&theme=tokyonight&hide_border=true" />
-      </td>"  // Fix unclosed <td>
-    }
-  ]
-}
-            </tr>
+      </td>
+    </tr>
 </table>
 </div>
 
