@@ -56,8 +56,6 @@ Each project is documented with detailed Jupyter Notebooks and explanations.
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-*Want real-time updates? Check out [GitHub Readme Activity](https://github.com/Readme-Workflows/Readme-Activity).*
-
 </td>
 </tr>
 </table>
