@@ -38,37 +38,33 @@ Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Sta
   <tr>
     <td width="50%" valign="top">
 
-## 📊 Featured Projects
-
-Explore my comprehensive collection of data science projects:
+### 📊 Featured Projects
 
 - **[Data-Science-Projects](https://github.com/saverin0/Data-Science-Projects)**
-  - Data Analysis & Feature Engineering
-  - Machine Learning Projects
-  - Data Engineering Projects
-  - Web Scraping Projects
+  - Data Analysis & Feature Engineering  
+  - Machine Learning Projects  
+  - Data Engineering Projects  
+  - Web Scraping Projects  
 
 Each project is documented with detailed Jupyter Notebooks and explanations.
 
-    </td>
-    <td width="50%" valign="top">
+</td>
+<td width="50%" valign="top">
 
-## 🔄 Recent Activity
-
-Stay updated with my latest contributions:
+### 🔄 Recent Activity
 
 <!--START_SECTION:activity-->
-- 📦 Pushed updates to [Data-Science-Projects](https://github.com/saverin0/Data-Science-Projects).
-- 📝 Improved project documentation and README files.
-- 🔧 Optimized and refactored code for better efficiency.
-- 📄 Added new insights and visualizations to recent projects.
-- ✅ Merged pull requests and closed issues.
+- 📦 Pushed updates to [Data-Science-Projects](https://github.com/saverin0/Data-Science-Projects)  
+- 📝 Improved project documentation and README files  
+- 🔧 Optimized and refactored code for better efficiency  
+- 📄 Added new insights and visualizations to recent projects  
+- ✅ Merged pull requests and closed issues  
 <!--END_SECTION:activity-->
 
-*(Consider integrating [GitHub Readme Activity](https://github.com/Readme-Workflows/Readme-Activity) to automatically track this.)*
+*Want real-time updates? Check out [GitHub Readme Activity](https://github.com/Readme-Workflows/Readme-Activity).*
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
