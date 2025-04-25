@@ -8,9 +8,6 @@
       <td style="border: none; padding: 0;">
         <img src="https://github-readme-stats.vercel.app/api?username=saverin0&show_icons=true&theme=tokyonight&hide_border=true" />
       </td>
-<!--       <td style="border: none; padding: 0;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=saverin0&theme=tokyonight&hide_border=true" />
-      </td> -->
     </tr>
   </table>
 </div>
@@ -32,50 +29,38 @@ Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Sta
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <!-- Existing tech stack badges here -->
 </div>
 
 ---
 
 ## 📊 Featured Projects
 
-Here are some of the projects I've worked on:
+Explore my comprehensive collection of data science projects:
 
-- **[US-Health-Insurance-ANOVA-Analysis](https://github.com/saverin0/US-Health-Insurance-ANOVA-Analysis)**  
-  A statistical analysis project using Two-Way ANOVA to study variations in U.S. health insurance coinsurance rates across age groups and plan types, including binning, feature engineering, and statistical analysis.
+- **[Data-Science-Projects](https://github.com/saverin0/Data-Science-Projects)**
+  - Data Analysis & Feature Engineering
+  - Machine Learning Projects
+  - Data Engineering Projects
+  - Web Scraping Projects
 
-- **[Spotify-Genre-Trends-Pipeline](https://github.com/saverin0/Spotify-pipeline)**  
-  An automated data pipeline for analyzing Spotify music data using Apache Airflow, PostgreSQL, and Python. The project provides insights into genre trends, artist popularity, and personalized music recommendations.
-
-- **[Data Science Course Repository](https://github.com/saverin0/datascience)**  
-  A comprehensive repository containing projects, assignments, and notes from a data science course, including topics like exploratory data analysis, feature engineering, and machine learning.
-
-- **[iNeuron Data Science Assignments](https://github.com/saverin0/ineuron_datascience)**  
-  A repository containing assignments and projects completed as part of the iNeuron Data Science course, covering topics like Python, statistics, and machine learning.
-
-Check out more of my work on [my GitHub profile](https://github.com/saverin0)!
+Each project is documented with detailed Jupyter Notebooks and explanations.
 
 ---
 
-## 📈 GitHub Activity
+## 🔄 Recent Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saverin0&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+Stay updated with my latest contributions:
+
+<!--START_SECTION:activity-->
+- 📦 Pushed updates to [Data-Science-Projects](https://github.com/saverin0/Data-Science-Projects).
+- 📝 Improved project documentation and README files.
+- 🔧 Optimized and refactored code for better efficiency.
+- 📄 Added new insights and visualizations to recent projects.
+- ✅ Merged pull requests and closed issues.
+<!--END_SECTION:activity-->
+
+*(Consider integrating [GitHub Readme Activity](https://github.com/Readme-Workflows/Readme-Activity) to automatically track this.)*
 
 ---
 
@@ -100,11 +85,11 @@ Check out more of my work on [my GitHub profile](https://github.com/saverin0)!
 </div>
 
 <div align="center">
-  
-  ### 💭 Quote of the Day
-  
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-  
+
+### 💭 Quote of the Day
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
 
 <!-- GitHub Contribution Animation -->
