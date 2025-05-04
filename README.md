@@ -18,7 +18,7 @@
 
 Hi there! I'm **Abhishek Singh**, a passionate **Data Scientist** and **Full-Stack Developer** with a strong focus on solving real-world problems through data-driven insights and innovative solutions. I enjoy working on projects that combine **data analysis**, **machine learning**, and **web development** to create meaningful impact.
 
-- 🔭 **Current Project**: [Semiconductor material fault detection using machine learning]([https://github.com/saverin0/automated-semiconductor-fault-detection])
+- 🔭 **Current Project**: [Semiconductor material fault detection using machine learning](https://github.com/saverin0/automated-semiconductor-fault-detection)
 - 🌱 **Learning**: Advanced Statistical Methods, Machine Learning, and Data Visualization
 - 👯 **Looking to Collaborate**: Open-source projects in **Data Science** and **Web Development**
 - 💬 **Ask me about**: Python, Data Analysis, ANOVA, and Full-Stack Development
