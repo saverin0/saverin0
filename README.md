@@ -68,6 +68,20 @@ Python reference implementation with a C++ core for the scoring.
 </td>
 </tr>
 <tr>
+<td><img src="media/uav-lidar-valley.gif" alt="A drone flight over a river valley in Armenia, the drone DSM, DTM and land cover at 0.5 m, then the Copernicus DEM, ESA WorldCover, a canopy height map, Sentinel-2 and OpenStreetMap on the same map"></td>
+<td>
+
+**[uav-lidar-vs-satellite](https://github.com/saverin0/uav-lidar-vs-satellite)** — Raw drone sensor
+logs of two MARS-LVIG flights in Armenia, a river valley and a small town, turned into DSM, DTM and
+land cover at 0.5 m with our own ROS 2 readers, gyro-aided poses and a ground filter written in
+numpy, then checked against Copernicus GLO-30, ESA WorldCover, a global canopy height map,
+Sentinel-2 and OpenStreetMap. GLO-30 meets the drone DSM to 0.80 m RMSE on bare ground in the
+valley and 0.45 m in the town, sits 0.74 m below it over buildings and metres below it over trees.
+WorldCover agrees on 82 % of the valley but 32 % of the town, where it calls the gardens trees and grass.
+
+</td>
+</tr>
+<tr>
 <td><img src="media/dinov3-levir.jpg" alt="LEVIR-CD before and after images, ground truth and prediction"></td>
 <td>
 
@@ -150,4 +164,4 @@ terrabyte (SLURM).
 - LinkedIn — [abhishekzsingh](https://www.linkedin.com/in/abhishekzsingh)
 - Website — [saverin0.github.io](https://saverin0.github.io)
 
-<sub>Figure data from CaFFe (Gourmelon et al. 2022, CC BY 4.0), Glacial-Lake-Bench (Kaushik et al., CC BY 4.0), FZI-AURA, LEVIR-CD, the OWL caribou survey release (CC BY-NC-SA 4.0) and DLR Sentinel-2 composites.</sub>
+<sub>Figure data from CaFFe (Gourmelon et al. 2022, CC BY 4.0), Glacial-Lake-Bench (Kaushik et al., CC BY 4.0), FZI-AURA, LEVIR-CD, the OWL caribou survey release (CC BY-NC-SA 4.0), DLR Sentinel-2 composites, and MARS-LVIG and UAVScenes (CC BY-NC-SA 4.0) with Copernicus GLO-30, ESA WorldCover, the Meta and WRI canopy height map, Sentinel-2 and OpenStreetMap contributors (ODbL).</sub>
