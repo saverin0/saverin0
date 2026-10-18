@@ -68,6 +68,20 @@ Python reference implementation with a C++ core for the scoring.
 </td>
 </tr>
 <tr>
+<td><img src="media/vggt-drone-town-2m.gif" alt="A drone stretch over a town in 3D, its LiDAR points coloured by the depth error of VGGT-Omega alone, a hybrid with COLMAP and full COLMAP, and by the hybrid's change against the model"></td>
+<td>
+
+**[vggt-omega-drone-lidar](https://github.com/saverin0/vggt-omega-drone-lidar)** — The same VGGT-Ω
+checkpoint on straight-down drone images, two UAVScenes flights 80 to 130 m up, scored against the
+drone's own LiDAR and against COLMAP. On 83 stretches of 40 images its depth error is about half that
+of a flat plane fitted to the LiDAR itself (AbsRel 0.0146 vs 0.0310 in the town at 2 m between
+frames). COLMAP with the known camera is more accurate on all 6 test stretches but takes 15 to 17
+minutes per stretch, the model 5 to 8 seconds. A hybrid, the model's depth fitted to COLMAP's sparse
+points, beats the model alone on all 6 in 6 to 13 % of COLMAP's time, and comes within 10 % of COLMAP on 3 of 6.
+
+</td>
+</tr>
+<tr>
 <td><img src="media/uav-lidar-valley.gif" alt="A drone flight over a river valley in Armenia, the drone DSM, DTM and land cover at 0.5 m, then the Copernicus DEM, ESA WorldCover, a canopy height map, Sentinel-2 and OpenStreetMap on the same map"></td>
 <td>
 
